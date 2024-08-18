@@ -1,4 +1,4 @@
-# -Anti-Narcoleptic-Alarm-System
+# Anti-Narcoleptic Alarm System
 I've Designed and integrated smart glasses with Arduino Nano using Embedded C programming that alerts the user with a buzzing sound  if the user is experiencing Narcolepsy.
 
 ## Project Description
