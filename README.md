@@ -73,13 +73,3 @@ The eye glasses are worn by the user, and the eye blink sensor continuously moni
 ![Implemented Eye Glasses 1](https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/d59b03c6-d75b-4292-8dee-a9b89819a37b)
 ![Implemented Eye Glasses 2](https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/31bf8c88-a18e-4cb1-825e-56370dfe51da)
 
-## How to Use
-
-1. Assemble the components on the eyeglass frame as per the circuit diagram.
-2. Wear the glasses with the integrated system.
-3. Power on the system using the SPST switch.
-4. The system will monitor for signs of drowsiness and activate the alert mechanisms when needed.
-
----
-
-Feel free to contribute, report issues, or suggest improvements to make the Anti Sleep Alarm System even more effective. Drive safely!
