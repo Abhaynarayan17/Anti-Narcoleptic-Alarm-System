@@ -1,21 +1,18 @@
 # Anti-Narcoleptic Alarm System
-I've Designed and integrated smart glasses with Arduino Nano using Embedded C programming that alerts the user with a buzzing sound  if the user is experiencing Narcolepsy.
+I've designed and integrated smart glasses with Arduino Nano using Embedded C programming that alerts the user with a buzzing sound  if the user is experiencing Narcolepsy.
 
-## Project Description
-
-Imagine wearing a pair of eyeglasses that keeps you alert and focused throughout the day. Our Anti-Sleep Alarm System does just that! The system seamlessly integrates with your vision, monitoring your eye blinks and triggering gentle yet effective alerts when you're showing signs of drowsiness or fatigue.
+## Project Overview
+Imagine wearing eyeglasses that keep you alert and focused throughout the day. Our Anti-Sleep Alarm System is designed to do just that! This innovative system integrates seamlessly with your vision, monitoring your eye blinks and providing gentle yet effective alerts whenever you show signs of drowsiness or fatigue.
 
 ## Key Features
-
-- **Drowsiness Detection:** The system uses an eye blink sensor to detect extended eye closure (over 1.5 seconds), indicating potential sleepiness.
-- **Multi-Modal Alerting:** Upon detecting drowsiness, the system activates two alert mechanisms:
-  - Passive Buzzer: Emits a gentle but noticeable sound to break through drowsiness.
-  - Coin Vibration Motor: Provides haptic feedback through vibrations on the temple area, offering a discreet and effective wake-up call.
-- **Lightweight and Comfortable:** The system is designed to be worn comfortably on your existing eyeglasses, ensuring minimal disruption to your daily activities.
-
+Drowsiness Detection: Equipped with an eye blink sensor, the system detects prolonged eye closure (over 1.5 seconds), signaling potential sleepiness.
+Multi-Modal Alerts: When drowsiness is detected, the system triggers two alert mechanisms:
+Passive Buzzer: Emits a soft but noticeable sound to break through drowsiness.
+Coin Vibration Motor: Delivers haptic feedback through vibrations in the temple area, offering a discreet and effective wake-up call.
+Lightweight and Comfortable: Designed to be worn comfortably on your existing eyeglasses, the system ensures minimal disruption to your daily routine.
 ### How It Works
 
-The eye glasses are worn by the user, and the eye blink sensor continuously monitors for signs of drowsiness. If the sensor detects the user closing their eyes for more than 1.5 seconds, the system is triggered. This leads to the activation of the passive buzzer, emitting an audible alert, and the coin vibration motor starts vibrating, providing haptic feedback to wake up the user.
+The eyeglasses are worn by the user, and the eye blink sensor continuously monitors for signs of drowsiness. If the sensor detects the user closing their eyes for more than 1.5 seconds, the system is triggered. This leads to the activation of the passive buzzer, emitting an audible alert, and the coin vibration motor starts vibrating, providing haptic feedback to wake up the user.
 
 ## Components Used
 
@@ -38,7 +35,7 @@ The eye glasses are worn by the user, and the eye blink sensor continuously moni
   <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/12256e6c-f193-44a9-b7e2-3474b6edc86e" align="center" height="200" alt="Passive Buzzer"  />
 </div>
 
-4. **Coin Vibration Motor:** Provides haptic feedback to wake up the user.
+4. **Coin Vibration Motor:** Provides haptic feedback to wake the user.
 
 <div align="left">
   <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/6f3ec8d1-0aa3-4424-b97c-7df0b3b8e9e9" align="center" height="200" alt="Coin Vibration Motor"  />
