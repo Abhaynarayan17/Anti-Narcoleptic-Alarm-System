@@ -5,11 +5,11 @@ I've designed and integrated smart glasses with Arduino Nano using Embedded C pr
 Imagine wearing eyeglasses that keep you alert and focused throughout the day. Our Anti-Sleep Alarm System is designed to do just that! This innovative system integrates seamlessly with your vision, monitoring your eye blinks and providing gentle yet effective alerts whenever you show signs of drowsiness or fatigue.
 
 ## Key Features
-Drowsiness Detection: Equipped with an eye blink sensor, the system detects prolonged eye closure (over 1.5 seconds), signaling potential sleepiness.
-Multi-Modal Alerts: When drowsiness is detected, the system triggers two alert mechanisms:
-Passive Buzzer: Emits a soft but noticeable sound to break through drowsiness.
-Coin Vibration Motor: Delivers haptic feedback through vibrations in the temple area, offering a discreet and effective wake-up call.
-Lightweight and Comfortable: Designed to be worn comfortably on your existing eyeglasses, the system ensures minimal disruption to your daily routine.
+Equipped with an eye blink sensor, the system detects prolonged eye closure (over 1.5 seconds), signaling potential sleepiness.
+When drowsiness is detected, the system triggers two alert mechanisms.
+Emits a soft but noticeable sound to break through drowsiness.
+Delivers haptic feedback through vibrations in the temple area, offering a discreet and effective wake-up call.
+Designed to be worn comfortably on your existing eyeglasses, the system ensures minimal disruption to your daily routine.
 ### How It Works
 
 The eyeglasses are worn by the user, and the eye blink sensor continuously monitors for signs of drowsiness. If the sensor detects the user closing their eyes for more than 1.5 seconds, the system is triggered. This leads to the activation of the passive buzzer, emitting an audible alert, and the coin vibration motor starts vibrating, providing haptic feedback to wake up the user.
