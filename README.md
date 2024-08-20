@@ -1,5 +1,5 @@
 # Anti-Narcoleptic Alarm System
-I've designed and integrated smart glasses with Arduino Nano using Embedded C programming that alerts the user with a buzzing sound  if the user is experiencing Narcolepsy.
+We've designed and integrated smart glasses with Arduino Nano using Embedded C programming that alerts the user with a buzzing sound  if the user is experiencing Narcolepsy.
 
 ## Project Overview
 Imagine wearing eyeglasses that keep you alert and focused throughout the day. Our Anti-Sleep Alarm System is designed to do just that! This innovative system integrates seamlessly with your vision, monitoring your eye blinks and providing gentle yet effective alerts whenever you show signs of drowsiness or fatigue.
@@ -7,12 +7,12 @@ Imagine wearing eyeglasses that keep you alert and focused throughout the day. O
 ## Key Features
 Equipped with an eye blink sensor, the system detects prolonged eye closure (over 1.5 seconds), signaling potential sleepiness.
 When drowsiness is detected, the system triggers two alert mechanisms.
-Emits a soft but noticeable sound to break through drowsiness.
+It emits a soft but noticeable sound to break through drowsiness.
 Delivers haptic feedback through vibrations in the temple area, offering a discreet and effective wake-up call.
 Designed to be worn comfortably on your existing eyeglasses, the system ensures minimal disruption to your daily routine.
 ### How It Works
 
-The eyeglasses are worn by the user, and the eye blink sensor continuously monitors for signs of drowsiness. If the sensor detects the user closing their eyes for more than 1.5 seconds, the system is triggered. This leads to the activation of the passive buzzer, emitting an audible alert, and the coin vibration motor starts vibrating, providing haptic feedback to wake up the user.
+The user wears the eyeglasses, and the eye blink sensor continuously monitors for signs of drowsiness. If the sensor detects the user closing their eyes for more than 1.5 seconds, the system is triggered. This leads to the activation of the passive buzzer, emitting an audible alert, and the coin vibration motor starts vibrating, providing haptic feedback to wake the user.
 
 ## Components Used
 
@@ -29,7 +29,7 @@ The eyeglasses are worn by the user, and the eye blink sensor continuously monit
   <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/7dbd37ed-e73a-4309-a826-890525c923a5" align="center" height="200" alt="Arduino Nano"  />
 </div>
 
-3. **Passive Buzzer:** Emits an audible alert when fatigue is detected.
+3. **Passive Buzzer:** Emits an audible alert when a user experiences fatigue.
 
 <div align="left">
   <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/12256e6c-f193-44a9-b7e2-3474b6edc86e" align="center" height="200" alt="Passive Buzzer"  />
